@@ -604,7 +604,7 @@
 
 				.icon {
 					&:before {
-						font-size: 1.5em;
+						font-size: 2.5em;
 					}
 				}
 			}
@@ -902,7 +902,7 @@
 	#header {
 		background-color:		_palette(accent2, bg);
 		background-attachment:	scroll,								fixed;
-		background-image:		url('/images/overlay.png'),			url('../../images/bg.jpg');
+		background-image:		url('/images/overlay.png'),			url('/images/mountain.jpg');
 		background-position:	top left,							top left;
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								auto 100%;
@@ -1291,7 +1291,7 @@
 			#footer {
 				background-attachment:	scroll;
 				background-color:		_palette(accent2, bg);
-				background-image:		url('/images/overlay.png'),		url('../../images/bg.jpg');
+				background-image:		url('/images/overlay.png'),		url('/images/mountain.jpg');
 				background-position:	top left,						bottom center;
 				background-repeat:		repeat,							no-repeat;
 				background-size:		auto,							cover;
